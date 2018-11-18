@@ -58,6 +58,6 @@ void loop()
       myservo4.write(servo4);
       Serial.println("Servo 4 ON");
       delay(10);
-    }
+    } 
   }
 }
