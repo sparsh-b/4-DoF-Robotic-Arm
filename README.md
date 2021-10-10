@@ -1,5 +1,5 @@
 # 4-DoF-Robotic-Arm
-An Arduino Uno is used to implement the project.
+Built a 4 Degrees-of-Freedom Manipulator from scratch, using manufacturing processes like 3DPrinting, Lathe machining, Welding, Drilling and Fitting. An Arduino Uno is used to implement the project.
 
 Spur gears required for the transmission mechanism were fabricated & meshed together. The transmission mechanism was assembled & electrical circuits were connected. While some of the mechanical structures required for the body of the bot were 3D printed, some others were fabricated in the Central Workshop (both by the courtesy of BITS-Pilani, Hyderabad Campus).
 
